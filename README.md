@@ -1,12 +1,27 @@
-# fellowyourself
- 个人网站应用
- 
- 名词一一映射?
- 不
- 名词映射不同的人为的事物
-ionic  angular 做前端
- sails 做后端
- 
-目前构思的产品,是一个不是社区的社区,科普为主,各自论述自己对某些名词的理解,然后,其他人并不能直接赞同或反对,而是通过一些事件,分析出科普文对读者的影响力
- 
-先从高中生接触的词汇玩起来,然后,一步一步走向除了政治外的一切领域
+# fellowyourself-bn
+
+a [Sails v1](https://sailsjs.com) application
+
+
+### Links
+
++ [Get started](https://sailsjs.com/get-started)
++ [Sails framework documentation](https://sailsjs.com/documentation)
++ [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
++ [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
++ [Community support options](https://sailsjs.com/support)
++ [Professional / enterprise options](https://sailsjs.com/enterprise)
+
+
+### Version info
+
+This app was originally generated on Sun May 06 2018 23:23:00 GMT+0800 (CST) using Sails v1.0.1.
+
+<!-- Internally, Sails used [`sails-generate@1.15.21`](https://github.com/balderdashy/sails-generate/tree/v1.15.21/lib/core-generators/new). -->
+
+
+
+<!--
+Note:  Generators are usually run using the globally-installed `sails` CLI (command-line interface).  This CLI version is _environment-specific_ rather than app-specific, thus over time, as a project's dependencies are upgraded or the project is worked on by different developers on different computers using different versions of Node.js, the Sails dependency in its package.json file may differ from the globally-installed Sails CLI release it was originally generated with.  (Be sure to always check out the relevant [upgrading guides](https://sailsjs.com/upgrading) before upgrading the version of Sails used by your app.  If you're stuck, [get help here](https://sailsjs.com/support).)
+-->
+
